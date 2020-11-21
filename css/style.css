@@ -81,7 +81,9 @@ font-weight: 700;
     
 padding: 0px 21px;
 }
-
+.navbar-nav .nav-item .nav-link:hover{
+    color: #464cc5;
+}
 .container{
     max-width: 1170px;
 }
